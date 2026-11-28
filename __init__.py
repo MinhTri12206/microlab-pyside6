@@ -1,1 +1,1 @@
-"""Giao diện người dùng của MicroLab."""
+"""Các chức năng xử lý ảnh và video của MicroLab."""
